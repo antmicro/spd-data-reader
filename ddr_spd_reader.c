@@ -31,7 +31,7 @@
 
 // FTDI module definitions
 #define FT4232H_VID	0x0403
-#define FT4232H_PID	0x6011
+#define FT4232H_PID	0x6010
 
 // General information
 #define MEMORY_TYPE 0x02
